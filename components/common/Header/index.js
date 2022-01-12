@@ -26,7 +26,7 @@ function Header() {
       {router.asPath == "/" && (
         <header className="container">
           <nav className="navbar navbar-expand-lg navbar-light bg-light">
-            <Link href={"/"}>
+            <Link href={""}>
               <a className="navbar-brand">Countries</a>
             </Link>
             <div className="pos-f-t" onClick={() => setToggle(!menustate)}>
