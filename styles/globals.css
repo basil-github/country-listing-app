@@ -171,8 +171,9 @@ header nav button:hover {
   align-items: center;
   justify-content: flex-start;
   flex-wrap: nowrap;
-  width: 100%;
+  width: 90%;
   margin-top: 15px;
+  margin: 20px auto auto;
 }
 
 .checkbox input {
